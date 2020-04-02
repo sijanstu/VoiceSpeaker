@@ -1,10 +1,10 @@
-#Text To Voice Converter	
+# Text To Voice Converter	
 
-#objective: to convert given text into voice in windows
+# objective: to convert given text into voice in windows
 
-#usage:Voicespeaker object =new Voicespeaker(string);
+# usage:Voicespeaker object =new Voicespeaker(string);
 
-#Source code:
+# Source code:
 
 class Voicespeaker
 
