@@ -1,16 +1,13 @@
 #Text To Voice Converter	
 
-objective: to convert given text into voice in windows
+#objective: to convert given text into voice in windows
 
-usage:
-
-Voicespeaker object =new Voicespeaker(string);
-
-Change file path to desired place editing source code below if D:\\ drive is not suitable.
+#usage:Voicespeaker object =new Voicespeaker(string);
 
 #Source code:
 
 class Voicespeaker
+
     {
         String gender="0"; //0 means male voice and 1 means female voice
         Voicespeaker(String vv){
