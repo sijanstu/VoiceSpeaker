@@ -1,10 +1,10 @@
-# Text To Voice Converter	
+# Text To Voice Converter in Java GUI
 
 # objective: to convert given text into voice in windows
 
 # usage:Voicespeaker object =new Voicespeaker(string);
 
-# Source code:
+# Source code for merging with other codes:
 
 class Voicespeaker
 
