@@ -11,14 +11,6 @@ class Voicespeaker
     {
         String gender="0"; //0 means male voice and 1 means female voice
         Voicespeaker(String vv){
-            //if(zira.isSelected())
-           // {
-            //    gender="1"; //you can use this code to customize the voices
-            //}
-            if(vv.equals("what is computer"))
-            {
-                vv="it's me, computer is a electronic device which processes given input and gives you final output.";
-            }
             FileWriter f8;
             try{
                 File f6 = new File("D:\\voice.txt");
