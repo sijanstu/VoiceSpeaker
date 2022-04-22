@@ -1,4 +1,4 @@
-#  Text To Voice Converter in Java GUI
+#  VoiceSpeaker
 
 objective: To Speak given text in java
 # prerequisite
