@@ -1,8 +1,7 @@
 #  VoiceSpeaker
+objective: To Speak given text in java
 # Speak Example: 
     VoiceSpeaker.speak("Hello World", VoiceGender.FEMALE);
-objective: To Speak given text in java
-
 # prerequisite
     //add VoiceSpeaker class to your project:
     public class VoiceSpeaker {
