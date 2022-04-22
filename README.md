@@ -1,6 +1,6 @@
 #  Text To Voice Converter in Java GUI
 
-objective: To convert given text into voice in windows
+objective: To Speak given text in java
 # prerequisite
     add VoiceSpeaker class to your project and import it
 # Speak Example: 
