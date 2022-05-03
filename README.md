@@ -22,6 +22,6 @@ objective: To Speak given text in java
             this.value = value;
         }
     }
-}
+    }
     
    Contributers: Sijan Bhandari
