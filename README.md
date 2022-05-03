@@ -4,6 +4,13 @@ objective: To Speak given text in java
     VoiceSpeaker.speak("Hello World", VoiceGender.FEMALE);
 # prerequisite
     //add VoiceSpeaker class to your project:
+    import java.io.File;
+    import java.io.FileWriter;
+    import java.io.IOException;
+    /**
+     *
+     * @author Sijan Bhandari
+     */
     public class VoiceSpeaker {
     static void speak(String vv, VoiceGender gender) throws IOException {
         new File("voice.txt").delete();
@@ -24,4 +31,4 @@ objective: To Speak given text in java
     }
     }
     
-   Contributers: Sijan Bhandari
+   Contributer: Sijan Bhandari
